@@ -1,0 +1,13 @@
+{
+  "name": "wrap",
+  "repo": "yields/wrap",
+  "description": "Wrap an element.",
+  "version": "0.0.1",
+  "keywords": ["wrap"],
+  "dependencies": {"yields/before": "*"},
+  "development": {},
+  "license": "MIT",
+  "scripts": [
+    "index.js"
+  ]
+}
