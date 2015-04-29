@@ -1,0 +1,11 @@
+{
+  "name": "wrap",
+  "repository": "https://github.com/yields/wrap",
+  "description": "Wrap an element.",
+  "version": "0.0.1",
+  "keywords": ["wrap"],
+  "dependencies": {
+    "before": "git://github.com/jfresco/before.git#master"
+  },
+  "license": "MIT"
+}
