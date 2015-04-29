@@ -5,7 +5,10 @@
   "version": "0.0.1",
   "keywords": ["wrap"],
   "dependencies": {
-    "before": "git://github.com/jfresco/before.git#master"
+    "dom-before": "0.1.0"
+  },
+  "browser": {
+    "before": "dom-before"
   },
   "license": "MIT"
 }
